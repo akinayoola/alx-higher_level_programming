@@ -5,4 +5,4 @@ def number_keys(a_dictionary):
 
     for i in keys_list:
         my_count += 1
-        return (my_count)
+    return (my_count)
